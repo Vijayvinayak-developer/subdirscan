@@ -1,9 +1,49 @@
-# This is automated python script to Directory bruteforce and subdomin bruteforce 
+📁 Directory & Subdomain Bruteforce Tool
 
-(+)TO RUN FILE IN WINDOWS DOUBLE TAB ON 'runner.bat file'
+This project is an automated Python-based tool designed for directory and subdomain bruteforcing. It helps in discovering hidden directories and subdomains using wordlists, making it useful for reconnaissance, learning, and controlled security testing.
+
+⚙️ Features
+
+🔍 Directory bruteforcing
 
 
-(+)TO RUN FILE IN LINUX TYPE './runner.sh' in terminal
+🌐 Subdomain enumeration
 
-before running runner.sh file type this command 'chmod +x runner.sh'
-#no need of passing parameters to script
+
+📄 Supports custom wordlists
+
+
+📦 Includes default wordlists
+
+
+🖥️ Easy execution via script files (Windows & Linux)
+
+
+🚀 Getting Started
+
+
+
+▶️ Run on Windows
+
+
+Double-click on:
+runner.bat
+
+
+
+▶️ Run on Linux
+Give execution permission:
+
+chmod +x runner.sh
+
+Run the script:
+./runner.sh
+
+
+
+📌 Notes
+-> No additional parameters are required to run the script.
+
+-> Make sure Python is installed on your system.
+
+-> Customize wordlists for better results.
